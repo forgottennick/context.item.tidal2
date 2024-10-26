@@ -18,39 +18,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "TIDAL2 Search ..."
-msgstr ""
+msgstr "Szukaj w TIDAL2"
 
 msgctxt "#30003"
 msgid "Export/Import Path"
-msgstr ""
+msgstr "Katalog Exportu/Importu"
 
 msgctxt "#30004"
 msgid "Max. Number of simultaneous search requests"
-msgstr ""
+msgstr "Max. ilość jednoczesnych zapytań wyszukiwania"
 
 msgctxt "#30005"
 msgid "Enable virtual Library"
-msgstr ""
+msgstr "Włącz wirtualną Bibliotekę"
 
 msgctxt "#30006"
 msgid "Artist Folder"
-msgstr ""
+msgstr "Folder Artysty"
 
 msgctxt "#30007"
 msgid "Album Folder"
-msgstr ""
+msgstr "Folder Albumu"
 
 msgctxt "#30011"
 msgid "Globals"
-msgstr ""
+msgstr "Główne"
 
 msgctxt "#30070"
 msgid "Enable Debug-Logging"
-msgstr ""
+msgstr "Włącz Logowanie Debugowania"
 
 msgctxt "#30080"
 msgid "Blacklists"
-msgstr ""
+msgstr "Czarne Listy"
 
 msgctxt "#30081"
 msgid "Fuzzy-Level"
@@ -58,95 +58,95 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Blacklist #1"
-msgstr ""
+msgstr "Czarna Lista #1"
 
 msgctxt "#30083"
 msgid "Blacklist #2"
-msgstr ""
+msgstr "Czarna Lista #2"
 
 msgctxt "#30084"
 msgid "Blacklist #3"
-msgstr ""
+msgstr "Czarna Lista #3"
 
 msgctxt "#30085"
 msgid "Reduce Match-Level for Blacklist Match"
-msgstr ""
+msgstr "Redukuj Poziom Dopasowania dla Czarnej Listy"
 
 msgctxt "#30086"
 msgid "Minimum Match-Level Artist/Album Artist"
-msgstr ""
+msgstr "Minimalny Poziom Dopasowania Artysty/Albumu Artysty"
 
 msgctxt "#30087"
 msgid "Factors for Fuzzy Search:"
-msgstr ""
+msgstr "Współczynniki dla Fuzzy Search:"
 
 msgctxt "#30088"
 msgid "Increase Match-Level for Favorite Artists"
-msgstr ""
+msgstr "Zwiększ Poziom Dopasowania dla Ulubionych Artystów"
 
 msgctxt "#30089"
 msgid "Match only in brackets ( ) or [ ]"
-msgstr ""
+msgstr "Dopasuj tylko w nawiasach ( ) albo [ ]"
 
 msgctxt "#30101"
 msgid "Artist"
-msgstr ""
+msgstr "Artysta"
 
 msgctxt "#30102"
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 msgctxt "#30103"
 msgid "Playlist"
-msgstr ""
+msgstr "Playlista"
 
 msgctxt "#30104"
 msgid "Track"
-msgstr ""
+msgstr "Utwór"
 
 msgctxt "#30105"
 msgid "Video"
-msgstr ""
+msgstr "Wideo"
 
 msgctxt "#30106"
 msgid "Artists"
-msgstr ""
+msgstr "Artyści"
 
 msgctxt "#30107"
 msgid "Albums"
-msgstr ""
+msgstr "Albumy"
 
 msgctxt "#30108"
 msgid "Playlists"
-msgstr ""
+msgstr "Playlisty"
 
 msgctxt "#30109"
 msgid "Tracks"
-msgstr ""
+msgstr "Utwory"
 
 msgctxt "#30110"
 msgid "Videos"
-msgstr ""
+msgstr "Wideo"
 
 msgctxt "#30400"
 msgid "Search Again"
-msgstr ""
+msgstr "Szukaj Ponownie"
 
 msgctxt "#30401"
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 msgctxt "#30402"
 msgid "Album Artist"
-msgstr ""
+msgstr "Artysta Albumu"
 
 msgctxt "#30403"
 msgid "Album Year"
-msgstr ""
+msgstr "Artysta Albumu"
 
 msgctxt "#30404"
 msgid "Please login first !"
-msgstr ""
+msgstr "Zaloguj się!"
 
 msgctxt "#30405"
 msgid "Start"
@@ -154,59 +154,59 @@ msgstr ""
 
 msgctxt "#30406"
 msgid "From Position"
-msgstr ""
+msgstr "Od Pozycji"
 
 msgctxt "#30407"
 msgid "To Position"
-msgstr ""
+msgstr "Do Pozycji"
 
 msgctxt "#30408"
 msgid "Generate Playlist"
-msgstr ""
+msgstr "Utwórz Playlistę"
 
 msgctxt "#30409"
 msgid "Playlist for {what}"
-msgstr ""
+msgstr "Playlista dla {what}"
 
 msgctxt "#30410"
 msgid "Searching in TIDAL ..."
-msgstr ""
+msgstr "Szukanie w TIDAL ..."
 
 msgctxt "#30411"
 msgid "Searching ..."
-msgstr ""
+msgstr "Szukanie ..."
 
 msgctxt "#30412"
 msgid "Not Found"
-msgstr ""
+msgstr "Nie Znaleziono"
 
 msgctxt "#30413"
 msgid "{n} of {m} Items found"
-msgstr ""
+msgstr "Znaleziono {n} z {m} elementów"
 
 msgctxt "#30414"
 msgid "Search canceled"
-msgstr ""
+msgstr "Szukanie anulowane"
 
 msgctxt "#30415"
 msgid "Search aborted by user."
-msgstr ""
+msgstr "Szukanie przerwane przez użytkownika."
 
 msgctxt "#30416"
 msgid "Insert found Items to the Playlist ?"
-msgstr ""
+msgstr "Dodać znalezione Elementy do Playlisty ?"
 
 msgctxt "#30417"
 msgid "Finished"
-msgstr ""
+msgstr "Ukończono"
 
 msgctxt "#30418"
 msgid "Inserting Tracks into the Playlist ..."
-msgstr ""
+msgstr "Dodawanie Utworów do Playlisty ..."
 
 msgctxt "#30419"
 msgid "Search in TIDAL"
-msgstr ""
+msgstr "Szukaj w TIDAL"
 
 msgctxt "#30420"
 msgid "Fuzzy Search"
@@ -214,15 +214,15 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Generate Track Playlist"
-msgstr ""
+msgstr "Utwórz Playlistę Utwory"
 
 msgctxt "#30422"
 msgid "Generate Video Playlist"
-msgstr ""
+msgstr "Utwórz Playlistę Wideo"
 
 msgctxt "#30423"
 msgid "Addon Settings"
-msgstr ""
+msgstr "Ustawienia Dodatku"
 
 msgctxt "#30424"
 msgid "ListItem Info"
@@ -230,124 +230,124 @@ msgstr ""
 
 msgctxt "#30425"
 msgid "Authorization problem"
-msgstr ""
+msgstr "Problem z Autoryzacją"
 
 msgctxt "#30426"
 msgid "Export Favorite {what} ..."
-msgstr ""
+msgstr "Exportuj Ulubieni {what} ..."
 
 msgctxt "#30427"
 msgid "Import Favorite {what} ..."
-msgstr ""
+msgstr "Importuj Ulubieni {what} ..."
 
 msgctxt "#30428"
 msgid "{n} items exported"
-msgstr ""
+msgstr "Wyeksportowano {n} elementów"
 
 msgctxt "#30429"
 msgid "{n} items imported"
-msgstr ""
+msgstr "Zaimportowano {n} elementów"
 
 msgctxt "#30430"
 msgid "Delete Favorite {what}"
-msgstr ""
+msgstr "Usuń Ulubieni {what}"
 
 msgctxt "#30431"
 msgid "Remove all {what} from Favorites ?"
-msgstr ""
+msgstr "Usunąć wszystkie {what} z Ulubionych?"
 
 msgctxt "#30432"
 msgid "Import {what}"
-msgstr ""
+msgstr "Importuj {what}"
 
 msgctxt "#30433"
 msgid "Export User-Playlists"
-msgstr ""
+msgstr "Eksportuj Playlisty Użytkownika"
 
 msgctxt "#30434"
 msgid "Import User-Playlists ..."
-msgstr ""
+msgstr "Importuj Playlisty Użytkownika"
 
 msgctxt "#30435"
 msgid "Export User-Playlist"
-msgstr ""
+msgstr "Eksportuj Playlistę Użytkownika"
 
 msgctxt "#30436"
 msgid "Delete all Favorite {what}"
-msgstr ""
+msgstr "Usuń wszystkie Ulubieni {what}"
 
 msgctxt "#30437"
 msgid "Search for New Music ..."
-msgstr ""
+msgstr "Szukaj nowej Muzyki"
 
 msgctxt "#30438"
 msgid "Limit for Search Results"
-msgstr ""
+msgstr "Limit Wyników Wyszukiwania"
 
 msgctxt "#30439"
 msgid "Max. age in days"
-msgstr ""
+msgstr "Maks. wiek w dniach"
 
 msgctxt "#30440"
 msgid "Found new music:"
-msgstr ""
+msgstr "Znaleziono nową Muzykę:"
 
 msgctxt "#30441"
 msgid "Adding found Items to Playlists ..."
-msgstr ""
+msgstr "Dodawanie znalezionych elementów do Playlist ..."
 
 msgctxt "#30442"
 msgid "Error while Searching for new Music"
-msgstr ""
+msgstr "Błąd podczas wyszukiwania nowej Muzyki"
 
 msgctxt "#30443"
 msgid "No new music found !"
-msgstr ""
+msgstr "Nie znaleziono nwej Muzyki!"
 
 msgctxt "#30444"
 msgid "Search aborted."
-msgstr ""
+msgstr "Wyszukiwanie Przerwane."
 
 msgctxt "#30445"
 msgid "Search Threads are still running."
-msgstr ""
+msgstr "Zadania wyszukiwania w toku."
 
 msgctxt "#30446"
 msgid "Should all Threads be aborted ?"
-msgstr ""
+msgstr "Przerwać wszystkie zadania wyszukiwania?"
 
 msgctxt "#30447"
 msgid "Move Atmos tracks ..."
-msgstr ""
+msgstr "Przenieś utwory Atmos..."
 
 msgctxt "#30448"
 msgid "Move RA360 tracks ..."
-msgstr ""
+msgstr "Przenieś utwory RA360 ..."
 
 msgctxt "#30449"
 msgid "Move MQA tracks ..."
-msgstr ""
+msgstr "Przenieś utwory MQA ..."
 
 msgctxt "#30450"
 msgid "Move duplicate tracks ..."
-msgstr ""
+msgstr "Przenieś zduplikowane Utwory ..."
 
 msgctxt "#30451"
 msgid "Move Track to other playlist"
-msgstr ""
+msgstr "Przenieś Utwór do innej playlisty"
 
 msgctxt "#30452"
 msgid "Export to virtual Library"
-msgstr ""
+msgstr "Eksportuj do wirtualnej Biblioteki"
 
 msgctxt "#30453"
 msgid "Move from here ..."
-msgstr ""
+msgstr "Przenieś stąd ..."
 
 msgctxt "#30454"
 msgid "How many items ?"
-msgstr ""
+msgstr "Ile elementów ?"
 
 msgctxt "#30455"
 msgid "Move items ..."
-msgstr ""
+msgstr "Przenieś elementy ..."
