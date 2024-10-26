@@ -54,7 +54,7 @@ msgstr "Czarne Listy"
 
 msgctxt "#30081"
 msgid "Fuzzy-Level"
-msgstr ""
+msgstr "Luźne Wyszukiwanie"
 
 msgctxt "#30082"
 msgid "Blacklist #1"
@@ -78,7 +78,7 @@ msgstr "Minimalny Poziom Dopasowania Artysty/Albumu Artysty"
 
 msgctxt "#30087"
 msgid "Factors for Fuzzy Search:"
-msgstr "Współczynniki dla Fuzzy Search:"
+msgstr "Parametry dla Luźnego Wyszukiwania:"
 
 msgctxt "#30088"
 msgid "Increase Match-Level for Favorite Artists"
@@ -210,7 +210,7 @@ msgstr "Szukaj w TIDAL"
 
 msgctxt "#30420"
 msgid "Fuzzy Search"
-msgstr ""
+msgstr "Luźne Wyszukiwanie"
 
 msgctxt "#30421"
 msgid "Generate Track Playlist"
@@ -226,7 +226,7 @@ msgstr "Ustawienia Dodatku"
 
 msgctxt "#30424"
 msgid "ListItem Info"
-msgstr ""
+msgstr "Informacje o elementach listy"
 
 msgctxt "#30425"
 msgid "Authorization problem"
