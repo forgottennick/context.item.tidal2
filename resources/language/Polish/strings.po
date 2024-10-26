@@ -138,11 +138,11 @@ msgstr "Szukaj"
 
 msgctxt "#30402"
 msgid "Album Artist"
-msgstr "Artysta Albumu"
+msgstr "Wykonawca Albumu"
 
 msgctxt "#30403"
 msgid "Album Year"
-msgstr "Artysta Albumu"
+msgstr "Rok Albumu"
 
 msgctxt "#30404"
 msgid "Please login first !"
@@ -214,7 +214,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Generate Track Playlist"
-msgstr "Utwórz Playlistę Utwory"
+msgstr "Utwórz Playlistę Utworu"
 
 msgctxt "#30422"
 msgid "Generate Video Playlist"
