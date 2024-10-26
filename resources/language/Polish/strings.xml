@@ -2,7 +2,7 @@
 <strings>
     <!-- Ustawienia Główne -->
     <string id="30001">Szukaj w TIDAL2</string>
-    <string id="30003">Katalog Exportu/Importu</string>
+    <string id="30003">Katalog Eksportu/Importu</string>
     <string id="30004">Maks. ilość jednoczesnych zapytań wyszukiwania</string>
     <string id="30005">Włącz wirtualną Bibliotekę</string>
     <string id="30006">Folder Artysty</string>
@@ -60,7 +60,7 @@
     <string id="30423">Ustawienia Dodatku</string>
     <string id="30424">Informacje o elementach listy</string>
     <string id="30425">Problem z Autoryzacją</string>
-    <string id="30426">Exportuj Ulubieni {what} ...</string>
+    <string id="30426">Eksportuj Ulubieni {what} ...</string>
     <string id="30427">Importuj Ulubieni {what} ...</string>
     <string id="30428">Wyeksportowano {n} elementów</string>
     <string id="30429">Zaimportowano {n} elementów</string>
