@@ -3,7 +3,7 @@
     <!-- Ustawienia Główne -->
     <string id="30001">Szukaj w TIDAL2</string>
     <string id="30003">Katalog Exportu/Importu</string>
-    <string id="30004">Max. ilość jednoczesnych zapytań wyszukiwania</string>
+    <string id="30004">Maks. ilość jednoczesnych zapytań wyszukiwania</string>
     <string id="30005">Włącz wirtualną Bibliotekę</string>
     <string id="30006">Folder Artysty</string>
     <string id="30007">Folder Albumu</string>
@@ -12,13 +12,13 @@
 
     <!-- Ustawienia Wyszukiwania -->
     <string id="30080">Czarne Listy</string>
-    <string id="30081">Fuzzy-Level</string>
+    <string id="30081">Luźne Wyszukiwanie</string>
     <string id="30082">Czarna Lista #1</string>
     <string id="30083">Czarna Lista #2</string>
     <string id="30084">Czarna Lista #3</string>
     <string id="30085">Redukuj Poziom Dopasowania dla Czarnej Listy</string>
     <string id="30086">Minimalny Poziom Dopasowania Artysty/Albumu Artysty</string>
-    <string id="30087">Współczynniki dla Fuzzy Search:</string>
+    <string id="30087">Parametry dla Luźnego Wyszukiwania:</string>
     <string id="30088">Zwiększ Poziom Dopasowania dla Ulubionych Artystów</string>
     <string id="30089">Dopasuj tylko w nawiasach ( ) albo [ ]</string>
 
@@ -54,11 +54,11 @@
     <string id="30417">Ukończono</string>
     <string id="30418">Dodawanie Utworów do Playlisty ...</string>
     <string id="30419">Szukaj w TIDAL</string>
-    <string id="30420">Fuzzy Search</string>
+    <string id="30420">Luźne Wyszukiwanie</string>
     <string id="30421">Utwórz Playlistę Utworu</string>
     <string id="30422">Utwórz Playlistę Wideo</string>
     <string id="30423">Ustawienia Dodatku</string>
-    <string id="30424">ListItem Info</string>
+    <string id="30424">Informacje o elementach listy</string>
     <string id="30425">Problem z Autoryzacją</string>
     <string id="30426">Exportuj Ulubieni {what} ...</string>
     <string id="30427">Importuj Ulubieni {what} ...</string>
