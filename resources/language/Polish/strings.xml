@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
-    <!-- Global Settings -->
+    <!-- Ustawienia Główne -->
     <string id="30001">Szukaj w TIDAL2</string>
     <string id="30003">Katalog Exportu/Importu</string>
     <string id="30004">Max. ilość jednoczesnych zapytań wyszukiwania</string>
@@ -10,7 +10,7 @@
     <string id="30011">Główne</string>
     <string id="30070">Włącz Logowanie Debugowania</string>
 
-    <!-- Search Settings -->
+    <!-- Ustawienia Wyszukiwania -->
     <string id="30080">Czarne Listy</string>
     <string id="30081">Fuzzy-Level</string>
     <string id="30082">Czarna Lista #1</string>
@@ -33,7 +33,7 @@
     <string id="30109">Utwory</string>
     <string id="30110">Wideo</string>
 
-    <!-- Program Text -->
+    <!-- Tekst Programu -->
     <string id="30400">Szukaj Ponownie</string>
     <string id="30401">Szukaj</string>
     <string id="30402">Artysta ALbumu</string>
