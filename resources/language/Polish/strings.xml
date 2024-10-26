@@ -36,7 +36,7 @@
     <!-- Tekst Programu -->
     <string id="30400">Szukaj Ponownie</string>
     <string id="30401">Szukaj</string>
-    <string id="30402">Artysta Albumu</string>
+    <string id="30402">Wykonawca Albumu</string>
     <string id="30403">Rok Albumu</string>
     <string id="30404">Zaloguj się!</string>
     <string id="30405">Rozpocznij</string>
@@ -55,7 +55,7 @@
     <string id="30418">Dodawanie Utworów do Playlisty ...</string>
     <string id="30419">Szukaj w TIDAL</string>
     <string id="30420">Fuzzy Search</string>
-    <string id="30421">Utwórz Playlistę Utwory</string>
+    <string id="30421">Utwórz Playlistę Utworu</string>
     <string id="30422">Utwórz Playlistę Wideo</string>
     <string id="30423">Ustawienia Dodatku</string>
     <string id="30424">ListItem Info</string>
